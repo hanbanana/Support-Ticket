@@ -35,5 +35,5 @@ Once the issue is resolved to the users satisfaction, the Admin will update the 
 [Forward Suppor](https://limitless-peak-84535.herokuapp.com/)
 
 ### Screenshot
-![Forward Support Screenshot](https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/user-open-ticket.PNG)
+![Forward Support Screenshot](https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/user-open-ticket.png)
 
