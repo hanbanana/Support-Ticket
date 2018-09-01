@@ -30,4 +30,11 @@ The Admin role will see all the current tickets that are currently live and what
 * What department the ticket has be assigned to.
 
 Once the issue is resolved to the users satisfaction, the Admin will update the status to closed and remove it from the open ticket list. The user will be able to see a history of prior tickets from their account page.
-# Support-Ticket
+
+### Link to Live Site
+[Forward Suppor](https://limitless-peak-84535.herokuapp.com/)
+
+### Screenshot
+![Forward Suppor Screenshot](https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/user-open-ticket.PNG)
+(https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/ticket-status.PNG)
+(https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/admin-page.PNG)
