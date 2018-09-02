@@ -32,7 +32,7 @@ The Admin role will see all the current tickets that are currently live and what
 Once the issue is resolved to the users satisfaction, the Admin will update the status to closed and remove it from the open ticket list. The user will be able to see a history of prior tickets from their account page.
 
 ### Link to Live Site
-[Forward Suppor](https://limitless-peak-84535.herokuapp.com/)
+[Forward Support](https://limitless-peak-84535.herokuapp.com/)
 
 ### Screenshot
 ![Forward Support Screenshot](https://github.com/hanbanana/Support-Ticket/blob/master/screenshots/user-open-ticket.png)
